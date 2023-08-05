@@ -1,0 +1,1 @@
+fgets(name_1,16,stdin);   
